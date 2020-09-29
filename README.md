@@ -9,7 +9,7 @@
 
 #### 目前章节进度
 
-- [x] Ch2 [线性表](https://github.com/wr786/DatenStruktur-und-Algorithm-Archiv/tree/master/Ch2)
+- [x] Ch2 [线性表](https://github.com/wr786/DatenStruktur-und-Algorithm-Archiv/tree/master/Ch2) (FR)
 
 - [ ] Ch3 栈与队列
 - [ ] Ch4 字符串
@@ -21,3 +21,11 @@
 - [ ] Ch10 检索
 - [ ] Ch11 索引技术
 - [ ] Ch12 高级数据结构
+
+#### 章节进度符号说明
+
+| 符号 | 意味                     |
+| ---- | ------------------------ |
+| FR   | 完成了全部发布的限时作业 |
+| PM   | 完成了全部的章节练习题   |
+
