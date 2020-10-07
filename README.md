@@ -11,7 +11,7 @@
 
 - [x] Ch2 [线性表](https://github.com/wr786/DatenStruktur-und-Algorithm-Archiv/tree/master/Ch2) (FR)
 
-- [ ] Ch3 栈与队列
+- [x] Ch3 [栈与队列](https://github.com/wr786/DatenStruktur-und-Algorithm-Archiv/tree/master/Ch3) (FR)
 - [ ] Ch4 字符串
 - [ ] Ch5 二叉树
 - [ ] Ch6 树
