@@ -45,8 +45,12 @@ int main() {
 			return 0;
 		}
 	}
-	for(auto& op: sol) {
-		cout << op << '\n';
-	}
+    if(!s.empty()) {
+        cout << "NO\n";
+    } else {
+        for(auto& op: sol) {
+		    cout << op << '\n';
+	    }
+    }
 	return 0;
 }
