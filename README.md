@@ -9,9 +9,11 @@
 
 #### 目前章节进度
 
-- [x] Ch2 [线性表](https://github.com/wr786/DatenStruktur-und-Algorithm-Archiv/tree/master/Ch2) (FR)
+- [x] Ch1 概论 ([MOOC](https://github.com/wr786/DatenStruktur-und-Algorithm-Archiv/tree/master/MOOC/Ch1.md))
 
-- [x] Ch3 [栈与队列](https://github.com/wr786/DatenStruktur-und-Algorithm-Archiv/tree/master/Ch3) (FR)
+- [x] Ch2 [线性表](https://github.com/wr786/DatenStruktur-und-Algorithm-Archiv/tree/master/Ch2) (FR) ([MOOC](https://github.com/wr786/DatenStruktur-und-Algorithm-Archiv/tree/master/MOOC/Ch2.md))
+
+- [x] Ch3 [栈与队列](https://github.com/wr786/DatenStruktur-und-Algorithm-Archiv/tree/master/Ch3) (FR) ([MOOC](https://github.com/wr786/DatenStruktur-und-Algorithm-Archiv/tree/master/MOOC/Ch3.md))
 - [ ] Ch4 字符串
 - [ ] Ch5 二叉树
 - [ ] Ch6 树
@@ -28,4 +30,5 @@
 | ---- | ------------------------ |
 | FR   | 完成了全部发布的限时作业 |
 | PM   | 完成了全部的章节练习题   |
+| MOOC | 完成了MOOC章节练习题     |
 
