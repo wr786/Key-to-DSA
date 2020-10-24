@@ -14,7 +14,7 @@
 - [x] Ch2 [线性表](https://github.com/wr786/DatenStruktur-und-Algorithm-Archiv/tree/master/Ch2) (FR) ([MOOC](https://github.com/wr786/DatenStruktur-und-Algorithm-Archiv/tree/master/MOOC/Ch2.md))
 
 - [x] Ch3 [栈与队列](https://github.com/wr786/DatenStruktur-und-Algorithm-Archiv/tree/master/Ch3) (FR) ([MOOC](https://github.com/wr786/DatenStruktur-und-Algorithm-Archiv/tree/master/MOOC/Ch3.md))
-- [ ] Ch4 字符串 ([MOOC](https://github.com/wr786/DatenStruktur-und-Algorithm-Archiv/tree/master/MOOC/Ch4.md))
+- [x] Ch4 [字符串](https://github.com/wr786/DatenStruktur-und-Algorithm-Archiv/tree/master/Ch4) (FR) ([MOOC](https://github.com/wr786/DatenStruktur-und-Algorithm-Archiv/tree/master/MOOC/Ch4.md))
 - [ ] Ch5 二叉树
 - [ ] Ch6 树
 - [ ] Ch7 图
