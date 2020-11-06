@@ -10,13 +10,11 @@
 #### 目前章节进度
 
 - [x] Ch1 概论 ([MOOC](https://github.com/wr786/DatenStruktur-und-Algorithm-Archiv/tree/master/MOOC/Ch1.md))
-
 - [x] Ch2 [线性表](https://github.com/wr786/DatenStruktur-und-Algorithm-Archiv/tree/master/Ch2) (FR) ([MOOC](https://github.com/wr786/DatenStruktur-und-Algorithm-Archiv/tree/master/MOOC/Ch2.md))
-
 - [x] Ch3 [栈与队列](https://github.com/wr786/DatenStruktur-und-Algorithm-Archiv/tree/master/Ch3) (FR) ([MOOC](https://github.com/wr786/DatenStruktur-und-Algorithm-Archiv/tree/master/MOOC/Ch3.md))
 - [x] Ch4 [字符串](https://github.com/wr786/DatenStruktur-und-Algorithm-Archiv/tree/master/Ch4) (FR) ([MOOC](https://github.com/wr786/DatenStruktur-und-Algorithm-Archiv/tree/master/MOOC/Ch4.md))
-- [ ] Ch5 二叉树
-- [ ] Ch6 树
+- [ ] Ch5 二叉树 ([MOOC上](https://github.com/wr786/DatenStruktur-und-Algorithm-Archiv/tree/master/MOOC/Ch5_I.md)) ([MOOC下](https://github.com/wr786/DatenStruktur-und-Algorithm-Archiv/tree/master/MOOC/Ch5_II.pdf))
+- [ ] Ch6 树 ([MOOC](https://github.com/wr786/DatenStruktur-und-Algorithm-Archiv/tree/master/MOOC/Ch6.pdf))
 - [ ] Ch7 图
 - [ ] Ch8 内排序
 - [ ] Ch9 文件管理和外排序
