@@ -10,13 +10,13 @@
 #### 目前章节进度
 
 - [x] Ch1 概论 ([MOOC](https://github.com/wr786/DatenStruktur-und-Algorithm-Archiv/tree/master/MOOC/Ch1.md))
-- [x] Ch2 [线性表](https://github.com/wr786/DatenStruktur-und-Algorithm-Archiv/tree/master/Ch2) (FR) ([MOOC](https://github.com/wr786/DatenStruktur-und-Algorithm-Archiv/tree/master/MOOC/Ch2.md))
-- [x] Ch3 [栈与队列](https://github.com/wr786/DatenStruktur-und-Algorithm-Archiv/tree/master/Ch3) (FR) ([MOOC](https://github.com/wr786/DatenStruktur-und-Algorithm-Archiv/tree/master/MOOC/Ch3.md))
-- [x] Ch4 [字符串](https://github.com/wr786/DatenStruktur-und-Algorithm-Archiv/tree/master/Ch4) (FR) ([MOOC](https://github.com/wr786/DatenStruktur-und-Algorithm-Archiv/tree/master/MOOC/Ch4.md))
+- [x] Ch2 线性表 (FR) ([MOOC](https://github.com/wr786/DatenStruktur-und-Algorithm-Archiv/tree/master/MOOC/Ch2.md))
+- [x] Ch3 栈与队列 (FR) ([MOOC](https://github.com/wr786/DatenStruktur-und-Algorithm-Archiv/tree/master/MOOC/Ch3.md))
+- [x] Ch4 字符串 (FR) ([MOOC](https://github.com/wr786/DatenStruktur-und-Algorithm-Archiv/tree/master/MOOC/Ch4.md))
 - [x] Ch5 二叉树 (FR) ([MOOC上](https://github.com/wr786/DatenStruktur-und-Algorithm-Archiv/tree/master/MOOC/Ch5_I.md)) ([MOOC下](https://github.com/wr786/DatenStruktur-und-Algorithm-Archiv/tree/master/MOOC/Ch5_II.pdf))
 - [x] Ch6 树 (FR) ([MOOC](https://github.com/wr786/DatenStruktur-und-Algorithm-Archiv/tree/master/MOOC/Ch6.pdf))
 - [x] Ch7 图 (FR) ([MOOC](https://github.com/wr786/DatenStruktur-und-Algorithm-Archiv/tree/master/MOOC/Ch7.md))
-- [ ] Ch8 内排序 ([MOOC上](https://github.com/wr786/DatenStruktur-und-Algorithm-Archiv/tree/master/MOOC/Ch8_I.md))
+- [x] Ch8 内排序 (FR) ([MOOC上](https://github.com/wr786/DatenStruktur-und-Algorithm-Archiv/tree/master/MOOC/Ch8_I.md))
 - [ ] Ch9 文件管理和外排序
 - [ ] Ch10 检索
 - [ ] Ch11 索引技术
