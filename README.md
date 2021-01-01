@@ -17,10 +17,10 @@
 - [x] Ch6 树 (FR) ([MOOC](https://github.com/wr786/DatenStruktur-und-Algorithm-Archiv/tree/master/MOOC/Ch6.pdf))
 - [x] Ch7 图 (FR) ([MOOC](https://github.com/wr786/DatenStruktur-und-Algorithm-Archiv/tree/master/MOOC/Ch7.md))
 - [x] Ch8 内排序 (FR) ([MOOC上](https://github.com/wr786/DatenStruktur-und-Algorithm-Archiv/tree/master/MOOC/Ch8_I.md)) ([MOOC下](https://github.com/wr786/DatenStruktur-und-Algorithm-Archiv/tree/master/MOOC/Ch8_II.md)）
-- [ ] Ch9 文件管理和外排序
-- [ ] Ch10 检索
-- [ ] Ch11 索引技术
-- [ ] Ch12 高级数据结构
+- [x] Ch9 文件管理和外排序
+- [x] Ch10 检索 (FR)
+- [x] Ch11 索引技术 (FR)
+- [x] Ch12 高级数据结构 (FR)
 - [x] [SIM 模拟机考题](SIM/) (FR)
 - [x] [2020上机考试](FINAL/)
 
